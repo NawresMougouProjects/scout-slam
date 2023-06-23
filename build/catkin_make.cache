@@ -1,0 +1,2 @@
+commander:ddynamic_reconfigure:navigation_params:realsense2_camera:realsense2_description:realsense_gazebo_plugin:robot_control:robot_description:robot_launch
+-DCATKIN_DEVEL_PREFIX=/home/nawres/yolo_nav/devel -DCMAKE_INSTALL_PREFIX=/home/nawres/yolo_nav/install -G Unix Makefiles

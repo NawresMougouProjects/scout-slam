@@ -1,0 +1,5 @@
+commander
+/home/nawres/yolo_nav/devel/.private/commander/cmake.lock /home/nawres/yolo_nav/devel/./cmake.lock
+/home/nawres/yolo_nav/devel/.private/commander/lib/pkgconfig/commander.pc /home/nawres/yolo_nav/devel/lib/pkgconfig/commander.pc
+/home/nawres/yolo_nav/devel/.private/commander/share/commander/cmake/commanderConfig-version.cmake /home/nawres/yolo_nav/devel/share/commander/cmake/commanderConfig-version.cmake
+/home/nawres/yolo_nav/devel/.private/commander/share/commander/cmake/commanderConfig.cmake /home/nawres/yolo_nav/devel/share/commander/cmake/commanderConfig.cmake

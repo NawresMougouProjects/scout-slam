@@ -1,0 +1,8 @@
+prefix=/home/nawres/yolo_nav/devel
+
+Name: ddynamic_reconfigure
+Description: Description of ddynamic_reconfigure
+Version: 0.3.2
+Cflags: -I/home/nawres/yolo_nav/src/ddynamic_reconfigure/include
+Libs: -L${prefix}/lib -lddynamic_reconfigure
+Requires: roscpp dynamic_reconfigure
